@@ -78,6 +78,66 @@
     <Compile Include="Aleatorio.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ejercicio - 2.Designer.vb">
+      <DependentUpon>ejercicio - 2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ejercicio - 2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio -3.Designer.vb">
+      <DependentUpon>Ejercicio -3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio -3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio 11.Designer.vb">
+      <DependentUpon>Ejercicio 11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio 11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio 5.Designer.vb">
+      <DependentUpon>Ejercicio 5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio 5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio 6.Designer.vb">
+      <DependentUpon>Ejercicio 6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio 6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ejercicio 7.Designer.vb">
+      <DependentUpon>ejercicio 7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ejercicio 7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio 8.Designer.vb">
+      <DependentUpon>Ejercicio 8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio 8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio 9.Designer.vb">
+      <DependentUpon>Ejercicio 9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio 9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercico -4.Designer.vb">
+      <DependentUpon>Ejercico -4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercico -4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="El menor de los numeros introducidos.Designer.vb">
+      <DependentUpon>El menor de los numeros introducidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="El menor de los numeros introducidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +157,12 @@
     <Compile Include="Form3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="hacer media de los valores.Designer.vb">
+      <DependentUpon>hacer media de los valores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="hacer media de los valores.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -112,10 +178,94 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Numeros pares hasta 20.Designer.vb">
+      <DependentUpon>Numeros pares hasta 20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Numeros pares hasta 20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="practica de expresiones.Designer.vb">
+      <DependentUpon>practica de expresiones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="practica de expresiones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="practica if.Designer.vb">
+      <DependentUpon>practica if.vb</DependentUpon>
+    </Compile>
+    <Compile Include="practica if.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Preguntar numero aleatorio.Designer.vb">
+      <DependentUpon>Preguntar numero aleatorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Preguntar numero aleatorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prueba libre nº1.Designer.vb">
+      <DependentUpon>Prueba libre nº1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Prueba libre nº1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="segunda version practica 4.Designer.vb">
+      <DependentUpon>segunda version practica 4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="segunda version practica 4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suma los primeros 100 numeros.Designer.vb">
+      <DependentUpon>suma los primeros 100 numeros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suma los primeros 100 numeros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suma numeros impares.Designer.vb">
+      <DependentUpon>suma numeros impares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suma numeros impares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tabla multiplicar.Designer.vb">
+      <DependentUpon>tabla multiplicar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tabla multiplicar.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Aleatorio.resx">
       <DependentUpon>Aleatorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ejercicio - 2.resx">
+      <DependentUpon>ejercicio - 2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio -3.resx">
+      <DependentUpon>Ejercicio -3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio 11.resx">
+      <DependentUpon>Ejercicio 11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio 5.resx">
+      <DependentUpon>Ejercicio 5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio 6.resx">
+      <DependentUpon>Ejercicio 6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ejercicio 7.resx">
+      <DependentUpon>ejercicio 7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio 8.resx">
+      <DependentUpon>Ejercicio 8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio 9.resx">
+      <DependentUpon>Ejercicio 9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercico -4.resx">
+      <DependentUpon>Ejercico -4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="El menor de los numeros introducidos.resx">
+      <DependentUpon>El menor de los numeros introducidos.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
@@ -126,11 +276,41 @@
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="hacer media de los valores.resx">
+      <DependentUpon>hacer media de los valores.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Numeros pares hasta 20.resx">
+      <DependentUpon>Numeros pares hasta 20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="practica de expresiones.resx">
+      <DependentUpon>practica de expresiones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="practica if.resx">
+      <DependentUpon>practica if.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preguntar numero aleatorio.resx">
+      <DependentUpon>Preguntar numero aleatorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prueba libre nº1.resx">
+      <DependentUpon>Prueba libre nº1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="segunda version practica 4.resx">
+      <DependentUpon>segunda version practica 4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suma los primeros 100 numeros.resx">
+      <DependentUpon>suma los primeros 100 numeros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suma numeros impares.resx">
+      <DependentUpon>suma numeros impares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabla multiplicar.resx">
+      <DependentUpon>tabla multiplicar.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
