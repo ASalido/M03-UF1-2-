@@ -163,6 +163,18 @@
     <Compile Include="hacer media de los valores.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Hacer un triangulo.Designer.vb">
+      <DependentUpon>Hacer un triangulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hacer un triangulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Introducir numeros para saber si es par o impar.Designer.vb">
+      <DependentUpon>Introducir numeros para saber si es par o impar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Introducir numeros para saber si es par o impar.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -226,6 +238,12 @@
     <Compile Include="suma numeros impares.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Sumar numeros de un intervalo.Designer.vb">
+      <DependentUpon>Sumar numeros de un intervalo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sumar numeros de un intervalo.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="tabla multiplicar.Designer.vb">
       <DependentUpon>tabla multiplicar.vb</DependentUpon>
     </Compile>
@@ -279,6 +297,12 @@
     <EmbeddedResource Include="hacer media de los valores.resx">
       <DependentUpon>hacer media de los valores.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Hacer un triangulo.resx">
+      <DependentUpon>Hacer un triangulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introducir numeros para saber si es par o impar.resx">
+      <DependentUpon>Introducir numeros para saber si es par o impar.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -308,6 +332,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="suma numeros impares.resx">
       <DependentUpon>suma numeros impares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sumar numeros de un intervalo.resx">
+      <DependentUpon>Sumar numeros de un intervalo.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="tabla multiplicar.resx">
       <DependentUpon>tabla multiplicar.vb</DependentUpon>

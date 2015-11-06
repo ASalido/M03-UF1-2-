@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.practica_5.El_menor_de_los_numeros_introducidos
+            Me.MainForm = Global.practica_5.Sumar_numeros_de_un_intervalo
         End Sub
     End Class
 End Namespace
